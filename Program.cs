@@ -1,4 +1,4 @@
-﻿#region 1
+#region 1
 //namespace Lab4
 //{
 //    public class Program
@@ -223,5 +223,104 @@
 #endregion
 
 #region 12
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            Phone phone = new Phone();
+//            phone.Brand = "Iphone";
+//            phone.DecreaseBattery(30);
+
+//            phone.PrintInfo();
+//        }
+//    }
+//}
+#endregion
+
+#region 13
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            Password password = new Password("qwerty");
+//            password.ChangePassword("pass12");
+//            password.PrintPassword();
+//            password.ChangePassword("newpass123");
+//            password.PrintPassword();
+
+//        }
+//    }
+//}
+#endregion
+
+#region 14
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            BankAccount account = new BankAccount();
+//            account.Deposit(100);
+//            account.WithDraw(300);
+//            account.ShowBalance();
+
+//        }
+//    }
+//}
+
+#endregion
+
+#region 15
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            Employee employee = new Employee("Nihat", "Football Player", 50000);
+//            employee.ShowInfo();
+//        }
+//    }
+//}
+#endregion
+
+#region 16
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            User user = new User();
+//            user.UserName = "Nihat";
+//            user.Email("nihatquaresma7@gmail.com");
+//            user.PrintInfo();
+//        }
+//    }
+//}
+#endregion
+
+#region 17
+//namespace Lab4
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Rectangle rectangle = new Rectangle();
+//            rectangle.SetValues(12, 48);
+//        }
+//    }
+//}
+
+#endregion
+
+#region 19
+
 
 #endregion
